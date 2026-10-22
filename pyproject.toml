@@ -1,0 +1,19 @@
+[project]
+name = "lista-de-tarefas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Jean Carlos", email = "jcjeejleitedesouza@proton.me" }
+]
+requires-python = ">=3.15"
+dependencies = [
+    "customtkinter>=6.0.0",
+]
+
+[project.scripts]
+lista-de-tarefas = "lista_de_tarefas:main"
+
+[build-system]
+requires = ["uv_build>=0.13.4,<0.14.0"]
+build-backend = "uv_build"
