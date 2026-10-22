@@ -49,4 +49,3 @@ Troque `main.py` pelo nome do arquivo principal do projeto.
 ## Andamento
 
 Por enquanto só a janela de nova tarefa está pronta. O resto estou fazendo aos poucos.
->>>>>>> fa973be (Atualizei o main.py, agora o usuário pode criar uma tarefa ele é)
